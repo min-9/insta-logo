@@ -1,0 +1,3 @@
+export const bgm_template = `
+  <audio autoplay loop src="./video/Instagram.mp4"></audio>
+`;
